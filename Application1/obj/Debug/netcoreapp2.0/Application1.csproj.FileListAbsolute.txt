@@ -1,0 +1,11 @@
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\bin\Debug\netcoreapp2.0\Application1.deps.json
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\bin\Debug\netcoreapp2.0\Application1.runtimeconfig.json
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\bin\Debug\netcoreapp2.0\Application1.runtimeconfig.dev.json
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\bin\Debug\netcoreapp2.0\Application1.dll
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\bin\Debug\netcoreapp2.0\Application1.pdb
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\obj\Debug\netcoreapp2.0\Application1.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\obj\Debug\netcoreapp2.0\Application1.AssemblyInfoInputs.cache
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\obj\Debug\netcoreapp2.0\Application1.AssemblyInfo.cs
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\obj\Debug\netcoreapp2.0\Application1.dll
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\obj\Debug\netcoreapp2.0\Application1.pdb
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\Application1\obj\Debug\netcoreapp2.0\Application1.csprojResolveAssemblyReference.cache

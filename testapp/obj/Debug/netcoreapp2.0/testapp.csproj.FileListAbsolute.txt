@@ -1,0 +1,8 @@
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\bin\Debug\netcoreapp2.0\testapp.deps.json
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\bin\Debug\netcoreapp2.0\testapp.dll
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\bin\Debug\netcoreapp2.0\testapp.pdb
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\obj\Debug\netcoreapp2.0\testapp.csproj.CoreCompileInputs.cache
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\obj\Debug\netcoreapp2.0\testapp.AssemblyInfoInputs.cache
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\obj\Debug\netcoreapp2.0\testapp.AssemblyInfo.cs
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\obj\Debug\netcoreapp2.0\testapp.dll
+C:\Users\ChrisAProd1\source\repos\CoverageTesting\testapp\obj\Debug\netcoreapp2.0\testapp.pdb
